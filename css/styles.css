@@ -10280,3 +10280,14 @@ section.resume-section .resume-section-content {
         padding-bottom: 5rem;
     }
 }
+
+.footer {
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 2%;
+}
+
+.size-font {
+    font-size: 0.6rem;
+}
